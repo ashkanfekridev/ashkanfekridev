@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-My name is Ashkan Aekri.
+My name is Ashkan Fekri.
 
 I'm software engineer and web developer
 
 - 🌱 I’m currently learning php, js, vuejs,python, c, database optimization and software develop
 - 💬 Ask me about php
 - 📫 How to reach me: ashkanfekridev@gmail.com
-- ⚡ Fun fact: I hate Python
-
+<!-- - ⚡ Fun fact: I hate Python -->
 ### My Stats :
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ashkanfekridev&show_icons=true)](https://github.com/ashkanfekridev)
  
